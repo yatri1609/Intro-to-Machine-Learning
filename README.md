@@ -1,1 +1,1 @@
-# Intro-to-Machine-Learning
+# s20-intro-ml
